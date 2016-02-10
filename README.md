@@ -1,2 +1,3 @@
 # jimecox-repo1
-My Readme file
+My Readme fileand here too
+Jim made changes to it
